@@ -33,7 +33,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanwenZheng&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanwenZheng&layout=compact&bg_color=40,904e95,e8684a&theme=dark&text_color=fffffe&hide=java&langs_count=6&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanwenZheng&layout=compact&bg_color=40,904e95,e8684a&theme=dark&text_color=fffffe&langs_count=6&card_width=445)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="45%">
