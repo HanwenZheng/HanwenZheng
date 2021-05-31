@@ -21,7 +21,9 @@
 
 ### 📜 Interested in both Front-end and Back-end development!
 
-### 🌱 Learning [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="WebAssembly" width="15px"/> WebAssembly](https://webassembly.org/) recently~
+<!-- ### 🌱 Learning [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="WebAssembly" width="15px"/> WebAssembly](https://webassembly.org/) recently~ -->
+
+### 🌱 Learning [<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="15px"/> GraphQL](https://graphql.org/) recently~
 
 ### 💞️ Looking to collaborate on [ReactWidgets](https://github.com/HanwenZheng/ReactWidgets)
 
@@ -29,7 +31,7 @@
 
 ## TL ; DR  
 
-![Hanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanwenZheng&show_icons=true&hide=contribs,issues&bg_color=50,e8684a,904e95&theme=dark&text_color=fffffe&include_all_commits=true)
+![Hanwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HanwenZheng&show_icons=true&hide=contribs,issues&bg_color=50,e8684a,904e95&theme=dark&text_color=fffffe&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanwenZheng&hide_border=true)
 
