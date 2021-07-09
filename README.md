@@ -25,7 +25,7 @@
 
 ### 🌱 Learning [<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="15px"/> GraphQL](https://graphql.org/) recently~
 
-### 💞️ Looking to collaborate on [ReactWidgets](https://github.com/HanwenZheng/ReactWidgets)
+### 💞️ Looking to collaborate on [APR App](https://github.com/HanwenZheng/Australian-Politicians-Recognition-App)
 
 ### 📫 Contact me at: alex.zhenghw@gmail.com
 
