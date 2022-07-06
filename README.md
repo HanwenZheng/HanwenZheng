@@ -3,7 +3,7 @@
 </p>
 
 
-# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Ahoy! [Portfolio?](https://alexzhengdev.netlify.app/)</div>
+# <div align="center">👋 Ahoy! [Portfolio?](https://alexzhengdev.netlify.app/)</div>
 
 
 <p align="center">
