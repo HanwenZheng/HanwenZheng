@@ -15,7 +15,7 @@
   <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" /></a>
 </p>
 
-<img src="assets/images/1.jpg" align="right" width="260px"/>
+<!--<img src="assets/images/1.jpg" align="right" width="260px"/>-->
 
 ## I'm 
 
