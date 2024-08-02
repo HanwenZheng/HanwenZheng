@@ -23,9 +23,7 @@
 
 <!-- ### 🌱 Learning [<img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/WebAssembly_Logo.svg" alt="WebAssembly" width="15px"/> WebAssembly](https://webassembly.org/) recently~ -->
 
-### 🌱 Learning [<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="15px"/> GraphQL](https://graphql.org/) recently~
-
-### :lollipop: Looking to collaborate on [APR App](https://github.com/HanwenZheng/Australian-Politicians-Recognition-App)
+### 🌱 Learning [<img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" width="15px"/> GraphQL](https://graphql.org/) 
 
 ### :shamrock: find me@ alex.zhenghw@gmail.com
 
